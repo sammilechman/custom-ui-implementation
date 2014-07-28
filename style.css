@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+}
+body {
+  background: #ffffff;
+  border: 1px solid #f0f0f0;
+  padding: 0;
+  height: 100%;
+}
+#merchant-search {
+  background-color:blue;
+  height: 90%;
+}
+#merchant-search-type {
+  background-color: white;
+  border: 1px solid #f0f0f0;
+}
+#merchant-search-text {
+  background-color: white;
+  border: 1px solid #f0f0f0;
+}
