@@ -7,15 +7,22 @@ body {
   padding: 0;
   height: 100%;
 }
+input {
+  width: 50%;
+}
 #merchant-search {
-  background-color:blue;
+  background-color:lightblue;
   height: 90%;
+}
+#merchant-search-text {
+  background-color: white;
+  border: 1px solid #f0f0f0;
 }
 #merchant-search-type {
   background-color: white;
   border: 1px solid #f0f0f0;
 }
-#merchant-search-text {
-  background-color: white;
+.type-button {
   border: 1px solid #f0f0f0;
+  width:150px;
 }
