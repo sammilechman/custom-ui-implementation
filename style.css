@@ -12,7 +12,6 @@ input {
 }
 #merchant-search {
   background-color:lightblue;
-  height: 90%;
 }
 #merchant-search-text {
   background-color: white;
@@ -25,4 +24,264 @@ input {
 .type-button {
   border: 1px solid #f0f0f0;
   width:150px;
+}
+
+
+
+.Payees_List {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  width: 1472px;
+  height: 835px;
+  z-index: 44;
+}
+.Payee___1__person_ {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  width: 1472px;
+  height: 835px;
+  z-index: 39;
+}
+.Connor_Duhame_Address_not_provided_ {
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(40, 43, 45);
+  font-weight: bold;
+  line-height: 1.1;
+  text-align: left;
+  position: relative;
+  left: 356.25px;
+  top: 231.842px;
+  z-index: 38;
+}
+.Person_Icon {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  left: 259px;
+  top: 211px;
+  width: 46px;
+  height: 40px;
+  z-index: 37;
+}
+.Person_Img {
+  background-image: url("Person Img.png");
+  position: relative;
+  left: 237px;
+  top: 186px;
+  width: 90px;
+  height: 90px;
+  z-index: 36;
+}
+.BG {
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0.5px 0.866px 3px 0px rgba(0, 0, 0, 0.039);
+  position: relative;
+  left: 237px;
+  top: 186px;
+  width: 1000px;
+  height: 90px;
+  z-index: 35;
+}
+.Payee___2__business_ {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1472px;
+  height: 835px;
+  z-index: 33;
+}
+.Actions___Pay_Only {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1472px;
+  height: 835px;
+  z-index: 32;
+}
+.S___Line {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1180px;
+  top: 319px;
+  width: 20px;
+  height: 41px;
+  z-index: 31;
+}
+.BG___Actions {
+  background-color: rgb(0, 161, 225);
+  position: absolute;
+  left: 1144px;
+  top: 292px;
+  width: 94px;
+  height: 90px;
+  z-index: 30;
+}
+.Ottawa_River_Power_Coorporation_283_Pembroke_St {
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(40, 43, 45);
+  font-weight: bold;
+  line-height: 1.1;
+  text-align: left;
+  position: absolute;
+  left: 356px;
+  top: 336.842px;
+  z-index: 28;
+}
+.Biz_Icon {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 265px;
+  top: 316px;
+  width: 36px;
+  height: 32px;
+  z-index: 27;
+}
+.Biz_Img {
+  background-image: url("Biz Img.png");
+  position: absolute;
+  left: 237px;
+  top: 292px;
+  width: 90px;
+  height: 90px;
+  z-index: 26;
+}
+.BG {
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0.5px 0.866px 4px 0px rgba(0, 0, 0, 0.125);
+  position: absolute;
+  left: 237px;
+  top: 292px;
+  width: 1000px;
+  height: 90px;
+  z-index: 25;
+}
+.Payee___3__business_ {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1472px;
+  height: 835px;
+  z-index: 23;
+}
+.Actions___Pay_Only_copy {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1472px;
+  height: 835px;
+  z-index: 22;
+}
+.VR {
+  background-image: url("VR.png");
+  opacity: 0.502;
+  position: absolute;
+  left: 1144px;
+  top: 398px;
+  width: 1px;
+  height: 90px;
+  z-index: 21;
+}
+.S___Line {
+  background-color: rgb(221, 221, 221);
+  position: absolute;
+  left: 1180px;
+  top: 426px;
+  width: 20px;
+  height: 41px;
+  z-index: 20;
+}
+.Hay_Mutual_Insurance_Company_37868_Zurich_Hensa {
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(40, 43, 45);
+  font-weight: bold;
+  line-height: 1.1;
+  text-align: left;
+  position: absolute;
+  left: 356px;
+  top: 444.842px;
+  z-index: 18;
+}
+.Biz_Icon {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 265px;
+  top: 422px;
+  width: 36px;
+  height: 32px;
+  z-index: 17;
+}
+.Biz_Img {
+  background-image: url("Biz Img.png");
+  position: absolute;
+  left: 237px;
+  top: 398px;
+  width: 90px;
+  height: 90px;
+  z-index: 16;
+}
+.BG {
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0.5px 0.866px 3px 0px rgba(0, 0, 0, 0.039);
+  position: absolute;
+  left: 237px;
+  top: 398px;
+  width: 1000px;
+  height: 90px;
+  z-index: 15;
+}
+.Payee___4__person_ {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1472px;
+  height: 835px;
+  z-index: 13;
+}
+.Daniel_Choi_Address_not_provided_ {
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(40, 43, 45);
+  font-weight: bold;
+  line-height: 1.1;
+  text-align: left;
+  position: absolute;
+  left: 356.25px;
+  top: 546.842px;
+  z-index: 12;
+}
+.Person_Icon {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 259px;
+  top: 528px;
+  width: 46px;
+  height: 40px;
+  z-index: 11;
+}
+.Person_Img {
+  background-image: url("Person Img.png");
+  position: absolute;
+  left: 237px;
+  top: 503px;
+  width: 90px;
+  height: 90px;
+  z-index: 10;
+}
+.Rounded_Rectangle_22 {
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0.5px 0.866px 3px 0px rgba(0, 0, 0, 0.039);
+  position: absolute;
+  left: 237px;
+  top: 503px;
+  width: 1000px;
+  height: 90px;
+  z-index: 9;
 }
